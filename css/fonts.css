@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'museosans';
+    src: url('fonts/museosans_500.eot');
+    src: url('fonts/museosans_500.eot?#iefix') format('embedded-opentype'),
+        url('fonts/museosans_500.woff2') format('woff2'),
+        url('fonts/museosans_500.woff') format('woff'),
+        url('fonts/museosans_500.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'museosansbold';
+    src: url('fonts/museosans700.eot');
+    src: url('fonts/museosans_700.eot?#iefix') format('embedded-opentype'),
+        url('fonts/museosans_700.woff2') format('woff2'),
+        url('fonts/museosans_700.woff') format('woff'),
+        url('fonts/museosans_700.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
